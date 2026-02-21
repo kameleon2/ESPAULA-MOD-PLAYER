@@ -1,0 +1,2 @@
+# ESPAULA-MOD-PLAYER
+ESP32 S3 18MB modul és PCM5102 DAC modul alapú MOD Player
